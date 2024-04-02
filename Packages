@@ -1,0 +1,31 @@
+Package: com.bytafont.bytafont2
+Name: BytaFont 2
+Version: 2.6.4
+Architecture: iphoneos-arm
+Description: BytaFont 2 lets you apply fonts to your iDevice in few taps.
+Maintainer: BytaFont.com
+Author: BytaFont.com
+Section: Customization
+Depends: firmware (>= 7),applist,unzip
+Filename: ./debs/com.bytafont.bytafont2_2.6.4_iphoneos-arm.deb
+Size: 1694528
+MD5sum: 2c2f4a8788927f4c30014989fe76af85
+SHA1: e05b53e7ed279ba4c278617cf7a4710d62d1ce44
+SHA256: 8ba789fdb17d41a3560937df545b52525a3dfd0b9205d08c3098c815c4d51c76
+
+Package: net.tateu.moveable
+Name: Moveable
+Version: 0.9~beta-6
+Architecture: iphoneos-arm
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Installed-Size: 280
+Depends: firmware (>=7.0), mobilesubstrate
+Filename: ./debs/net.tateu.moveable_0.9~beta-6_iphoneos-arm.deb
+Size: 72334
+MD5sum: ca71177078a87384bdc557b7bfdb9a60
+SHA1: 6ce5e1d74f542b35c2c31a32c4cd025d59706283
+SHA256: 77f2fb321b09bba9d4e36ebc88cdd6972935833fba22f4aeb4a9b556e1161705
+Section: Customization
+Description: Arrange statusbar icons.
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Icon: file:///Library/PreferenceBundles/Moveable.bundle/Moveable@2x.png
